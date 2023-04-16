@@ -1,6 +1,6 @@
 <!--- FundamentalsOfAlgorithmics -->
-# Solution of selected problems of 
+## Solution of selected problems of 
 
-# Fundamentals of Algorithmics of
+## Fundamentals of Algorithmics of
 
-# Gilles Brassard and Paul Bratley
+## Gilles Brassard and Paul Bratley
